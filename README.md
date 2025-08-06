@@ -72,5 +72,5 @@ Corporate Training: Employee training and attendance tracking
 Event Management: Conference and seminar attendance
 Remote Learning: Hybrid education environments
 # Copyright (c) 2025 Abhishek Maurya
-# Licensed under the MIT License. See LICENSE file.
+# Licensed under the MIT License. See LICENSE file.//
 
